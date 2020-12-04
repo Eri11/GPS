@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GPS</string>
+    <string name="titulo">INGRESA LA SIGUIENTE INFORMACIÓN</string>
+    <string name="latitud">LATITUD</string>
+    <string name="longitud">LONGITUD</string>
+    <string name="temp">TEMPERATURA</string>
+    <string name="clima">CLIMA GEOGRÁFICO</string>
+    <string name="guardar">Guardar</string>
+
+    <string-array name= "temp_list">
+        <item>°C</item>
+        <item>°F</item>
+    </string-array>
+
+    <string-array name= "clima_list">
+        <item>Cálido</item>
+        <item>Templado</item>
+        <item>Polar</item>
+    </string-array>
+</resources>
